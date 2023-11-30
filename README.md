@@ -11,7 +11,7 @@ Explore an array of machine learning algorithms fine-tuned for hard disk failure
 ### 🔑 Key Features
 
 - **Data Preparation:** 🧹 Scripts and tools for cleaning and preparing hard disk data.
-- **Model Training:** 💡 Implementations of various ML algorithms (e.g., Random Forest, SVM, Neural Networks) for predictive analysis.
+- **Model Training:** 💡 Implementations of various ML algorithms (e.g., Random Forest, SVM) for predictive analysis.
 - **Evaluation:** 📊 Compare model performance using metrics like accuracy, precision, and recall.
 - **Deployment Strategies:** 🚀 Insights on deploying trained models for proactive maintenance.
 
