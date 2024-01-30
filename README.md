@@ -15,4 +15,7 @@ Explore an array of machine learning algorithms fine-tuned for hard disk failure
 - **Evaluation:** 📊 Compare model performance using metrics like accuracy, precision, and recall.
 - **Deployment Strategies:** 🚀 Insights on deploying trained models for proactive maintenance.
 
+## Conclusion
+The notebook outlines a methodical approach to predicting hard disk failures using machine learning, emphasizing data cleaning and model evaluation using ROC curves.
+
 ---
